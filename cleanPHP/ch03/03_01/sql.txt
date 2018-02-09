@@ -1,0 +1,2 @@
+$sql = 'SELECT searchterm FROM searchterms
+        WHERE searchterm LIKE :search OR alternative LIKE :search';

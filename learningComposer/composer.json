@@ -1,0 +1,13 @@
+{
+    "name": "prakash/learning-composer",
+    "description": "This is to understand composer indepth",
+    "authors": [
+        {
+            "name": "syedarshadali",
+            "email": "engg.arshad83@gmail.com"
+        }
+    ],
+    "require": {
+        "league/color-extractor": "0.3.*"
+    }
+}

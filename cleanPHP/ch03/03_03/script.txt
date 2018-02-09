@@ -1,0 +1,8 @@
+<script>
+    var path = window.location.pathname;
+    var last = path.substring(path.lastIndexOf('/')+1);
+    if (last !== 'orchids') {
+        var target = document.getElementById(last);
+        window.scrollTo(0, target.getBoundingClientRect().top);
+    }
+</script>

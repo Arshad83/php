@@ -1,0 +1,4 @@
+RewriteEngine on
+
+RewriteRule ^(arrangements|flowers)$ $1.php [NC,L]
+RewriteRule ^care/orchids$ orchids.php [NC,L]
