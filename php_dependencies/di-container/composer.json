@@ -1,0 +1,15 @@
+{
+    "name": "vendor/di",
+    "authors": [
+        {
+            "name": "syedarshadali",
+            "email": "arshad.syed483@gmail.com"
+        }
+    ],
+    "require": {
+        "symfony/dependency-injection": "^3.4",
+        "symfony/yaml": "^3.4",
+        "symfony/config": "^3.4",
+        "foggyline/mp7": "dev-master"
+    }
+}

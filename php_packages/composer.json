@@ -1,0 +1,17 @@
+{
+    "name": "foggyline/mp7",
+    "authors": [
+        {
+            "name": "syedarshadali",
+            "email": "arshad.syed483@gmail.com"
+        }
+    ],
+    "require": {
+        "phpunit/phpunit": "^6.5"
+    },
+    "autoload": {
+  "psr-4": {
+   "Foggyline\\MP7\\": "src/Foggyline/MP7/"
+  }
+}
+}

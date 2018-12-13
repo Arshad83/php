@@ -1,0 +1,10 @@
+{
+    "name": "arshad/php_mongo",
+    "authors": [
+        {
+            "name": "syedarshadali",
+            "email": "arshad.syed483@gmail.com"
+        }
+    ],
+    "require": {}
+}

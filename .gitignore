@@ -1,4 +1,5 @@
 /vendor
-
+/php_packages/vendor/
+/php_dependencies/di-container/vendor/
 *.zip
 *.tar

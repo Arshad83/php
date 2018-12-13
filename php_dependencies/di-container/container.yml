@@ -1,0 +1,8 @@
+services:
+  my_config:
+    class: Config
+  my_logger:
+    class: Logger
+  my_app:
+    class: App
+    autowire: true
