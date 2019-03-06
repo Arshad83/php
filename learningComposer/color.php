@@ -1,51 +1,42 @@
-<!DOCTYPE html>
-<html lang="en-US">
+<?php
 
-<head>
-	<meta charset="UTF-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title>ImageAbstractor</title>
-	<link rel="stylesheet" href="style.css" type="text/css" media="all">
-</head>
 
-<body>
+//echo "<h1>Displaying color using composer<h1>";
 
-	<?php
-		require 'vendor/autoload.php';		
-		use League\ColorExtractor\Color;
-		use League\ColorExtractor\ColorExtractor;
-		use League\ColorExtractor\Palette;
+require 'vendor/autoload.php';
 
-		$palette = Palette::fromFilename('download.png');
-	?>
+use League\ColorExtractor\Color;
+use League\ColorExtractor\ColorExtractor;
+use League\ColorExtractor\Palette;
 
-	<header class="masthead">
-		<div class="site-branding">
-			<h1 class="site-title">ImageAbstractor</h1>
-			<p class="site-description">Pull the most dominant colors from an image.</p>
-		</div><!-- .site-title -->
-	</header><!-- .masthead -->
+$palette = Palette::fromFilename('download.png');
 
-	<section class="the-grid">
+// $palette is an iterator on colors sorted by pixel count
+?>
 
-		<ul class="colors">
+<ul>
+<?php
+foreach($palette as $color => $count) {
+    // colors are represented by integers
+   // echo Color::fromIntToHex($color), ': ', $count, "\n";
+	$value=Color::fromIntToHex($color);
 
-			<?php
+	echo "<li style='background-color:$value'>$value</li>";
+}
+?>
+</ul>
+<?php
+// it offers some helpers too
+$topFive = $palette->getMostUsedColors(5);
+var_dump($topFive);
+$colorCount = count($palette);
 
-				$colors = $palette->getMostUsedColors(1024);
+//$blackCount = $palette->getColorCount(Color::fromHexToInt('#000000'));
 
-				foreach( $colors as $color => $count ) {
-					$current = Color::fromIntToHex($color);
-					echo '<li style="background-color:' . $current . '">' . $current . '</li>';
-				}
 
-			?>
+// an extractor is built from a palette
+$extractor = new ColorExtractor($palette);
 
-		</ul>
-
-	</section><!-- .the-grid -->
-
-</body>
-
-</html>
-
+// it defines an extract method which return the most “representative” colors
+$colors = $extractor->extract(5);
+var_dump($colors);

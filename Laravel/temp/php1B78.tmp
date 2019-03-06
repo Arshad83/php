@@ -1,0 +1,143 @@
+
+[1mFILE: C:\Users\Prakash\AppData\Local\Temp\fz3temp-2\MyplanController.php[0m
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[1mFOUND 110 ERRORS AND 24 WARNINGS AFFECTING 28 LINES[0m
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  1 | [31mERROR[0m   | [ ] Missing file doc comment
+  1 | [31mERROR[0m   | [ ] Class found in ".php" file; use ".inc" extension instead
+  1 | [31mERROR[0m   | [x] End of line character is invalid; expected "\n" but found "\r\n"
+  1 | [31mERROR[0m   | [x] Missing file doc comment
+  1 | [31mERROR[0m   | [ ] Filename "MyplanController.php" doesn't match the expected filename "myplancontroller.php"
+  2 | [31mERROR[0m   | [ ] Missing file doc comment
+  2 | [31mERROR[0m   | [ ] Class name doesn't match filename; expected "class MyplanController"
+  2 | [31mERROR[0m   | [ ] Class name "Webkul_Marketplace_MyplanController" is not in camel caps format
+  2 | [31mERROR[0m   | [ ] Missing class doc comment
+  2 | [31mERROR[0m   | [ ] Missing class doc comment
+  2 | [31mERROR[0m   | [ ] Each class must be in a namespace of at least one level (a top-level vendor name)
+  2 | [31mERROR[0m   | [x] Missing class doc comment
+  2 | [31mERROR[0m   | [ ] Class name must use UpperCamel naming without underscores
+  2 | [31mERROR[0m   | [ ] Missing class doc comment
+  2 | [31mERROR[0m   | [ ] Class extends non-included class or system "Mage_Core_Controller_Front_Action"; include system with Channels::includeSystem() or include class with require_once
+  2 | [33mWARNING[0m | [ ] Line exceeds 80 characters; contains 84 characters
+  2 | [31mERROR[0m   | [x] Opening brace of a class must be on the line after the definition
+  2 | [31mERROR[0m   | [x] Opening brace of a class must be on the line after the definition
+  2 | [31mERROR[0m   | [x] Opening brace of a class must be on the line after the definition
+  2 | [31mERROR[0m   | [x] Expected 1 space before opening brace; found 0
+  2 | [33mWARNING[0m | [ ] Please trim any trailing whitespace
+  3 | [31mERROR[0m   | [x] Line indented incorrectly; expected 1 tabs, found 0
+  3 | [31mERROR[0m   | [x] Line indented incorrectly; expected 4 spaces, found 0
+  3 | [31mERROR[0m   | [x] Line indented incorrectly; expected 2 spaces, found 0
+  3 | [31mERROR[0m   | [ ] Missing function doc comment
+  3 | [31mERROR[0m   | [x] Expected 2 blank lines before function; 0 found
+  3 | [31mERROR[0m   | [ ] Missing function doc comment
+  3 | [31mERROR[0m   | [ ] Missing function doc comment
+  3 | [31mERROR[0m   | [x] Missing function doc comment
+  3 | [31mERROR[0m   | [ ] Missing function doc comment
+  3 | [31mERROR[0m   | [x] Expected 1 space after closing parenthesis; found 0
+  3 | [31mERROR[0m   | [x] Opening brace should be on a new line
+  3 | [31mERROR[0m   | [x] Opening brace should be on a new line
+  3 | [33mWARNING[0m | [ ] Please trim any trailing whitespace
+  4 | [31mERROR[0m   | [x] Line indented incorrectly; expected at least 2 tabs, found 0
+  4 | [31mERROR[0m   | [x] Line indented incorrectly; expected at least 8 spaces, found 0
+  4 | [31mERROR[0m   | [x] Line indented incorrectly; expected 4 spaces, found 0
+  4 | [33mWARNING[0m | [ ] Please trim any trailing whitespace
+  5 | [31mERROR[0m   | [x] Expected 1 blank line before closing function brace; 0 found
+  5 | [31mERROR[0m   | [x] Expected 2 blank lines after function; 0 found
+  5 | [33mWARNING[0m | [ ] Please trim any trailing whitespace
+  6 | [31mERROR[0m   | [x] Spaces must be used to indent lines; tabs are not allowed
+  6 | [31mERROR[0m   | [x] Line indented incorrectly; expected 0 spaces, found 8
+  6 | [33mWARNING[0m | [ ] Please trim any trailing whitespace
+  7 | [31mERROR[0m   | [x] Spaces must be used to indent lines; tabs are not allowed
+  7 | [31mERROR[0m   | [x] Line indented incorrectly; expected 0 tabs, found 2
+  7 | [31mERROR[0m   | [x] Line indented incorrectly; expected 0 spaces, found 8
+  7 | [31mERROR[0m   | [x] Line indented incorrectly; expected 0 spaces, found 8
+  7 | [31mERROR[0m   | [ ] You must use "/**" style comments for a function comment
+  7 | [31mERROR[0m   | [x] Expected 2 blank lines before function; 0 found
+  7 | [31mERROR[0m   | [ ] You must use "/**" style comments for a function comment
+  7 | [31mERROR[0m   | [ ] You must use "/**" style comments for a function comment
+  7 | [31mERROR[0m   | [x] You must use "/**" style comments for a function comment
+  7 | [31mERROR[0m   | [ ] You must use "/**" style comments for a function comment
+  7 | [31mERROR[0m   | [x] Expected 1 space after closing parenthesis; found 0
+  7 | [31mERROR[0m   | [x] Opening brace should be on a new line
+  7 | [31mERROR[0m   | [x] Opening brace should be on a new line
+  7 | [33mWARNING[0m | [ ] Please trim any trailing whitespace
+  8 | [31mERROR[0m   | [x] Spaces must be used to indent lines; tabs are not allowed
+  8 | [31mERROR[0m   | [x] Line indented incorrectly; expected 2 spaces, found 8
+  8 | [31mERROR[0m   | [x] Space after opening parenthesis of function call prohibited
+  8 | [31mERROR[0m   | [x] There should be no white space after an opening "("
+  8 | [31mERROR[0m   | [x] Missing space after array opener.
+  8 | [31mERROR[0m   | [x] Expected 1 space between comma and "'myplan_myplan'"; 0 found
+  8 | [31mERROR[0m   | [x] Expected 1 space between comma and "'myplan_myplan'"; 0 found
+  8 | [31mERROR[0m   | [x] Expected one space after the comma, 0 found
+  8 | [31mERROR[0m   | [ ] Add a single space after each comma delimiter
+  8 | [31mERROR[0m   | [x] Missing space before array closer.
+  8 | [33mWARNING[0m | [ ] Please trim any trailing whitespace
+  9 | [31mERROR[0m   | [x] Tabs must be used to indent lines; spaces are not allowed
+  9 | [31mERROR[0m   | [x] Line indented incorrectly; expected 2 spaces, found 8
+  9 | [33mWARNING[0m | [ ] Please trim any trailing whitespace
+ 10 | [31mERROR[0m   | [x] Tabs must be used to indent lines; spaces are not allowed
+ 10 | [31mERROR[0m   | [x] Line indented incorrectly; expected 2 spaces, found 8
+ 10 | [33mWARNING[0m | [ ] Please trim any trailing whitespace
+ 11 | [33mWARNING[0m | [ ] Please trim any trailing whitespace
+ 11 | [31mERROR[0m   | [x] Spaces must be used to indent lines; tabs are not allowed
+ 12 | [31mERROR[0m   | [x] Spaces must be used to indent lines; tabs are not allowed
+ 12 | [31mERROR[0m   | [x] Line indented incorrectly; expected 2 spaces, found 8
+ 12 | [31mERROR[0m   | [x] Space after opening parenthesis of function call prohibited
+ 12 | [31mERROR[0m   | [x] There should be no white space after an opening "("
+ 12 | [31mERROR[0m   | [ ] Static method called on non-included class or system "Mage"; include system with Channels::includeSystem() or include class with require_once
+ 12 | [33mWARNING[0m | [ ] Line exceeds 80 characters; contains 100 characters
+ 12 | [33mWARNING[0m | [ ] Please trim any trailing whitespace
+ 13 | [31mERROR[0m   | [x] Spaces must be used to indent lines; tabs are not allowed
+ 13 | [31mERROR[0m   | [x] Tabs must be used to indent lines; spaces are not allowed
+ 13 | [31mERROR[0m   | [x] Line indented incorrectly; expected 2 spaces, found 8
+ 13 | [33mWARNING[0m | [ ] Please trim any trailing whitespace
+ 14 | [31mERROR[0m   | [x] Spaces must be used to indent lines; tabs are not allowed
+ 14 | [33mWARNING[0m | [ ] This comment is 75% valid code; is this commented out code?
+ 14 | [31mERROR[0m   | [x] Line indented incorrectly; expected 2 spaces, found 12
+ 14 | [31mERROR[0m   | [x] No space found before comment text; expected "// echo "Arshadali";" but found "//echo "Arshadali";"
+ 14 | [31mERROR[0m   | [x] No space found before comment text; expected "// echo "Arshadali";" but found "//echo "Arshadali";"
+ 15 | [31mERROR[0m   | [x] Spaces must be used to indent lines; tabs are not allowed
+ 15 | [33mWARNING[0m | [ ] This comment is 75% valid code; is this commented out code?
+ 15 | [31mERROR[0m   | [x] Line indented incorrectly; expected 2 spaces, found 12
+ 15 | [31mERROR[0m   | [x] Block comment text must start on a new line
+ 16 | [33mWARNING[0m | [ ] Line exceeds 80 characters; contains 103 characters
+ 16 | [33mWARNING[0m | [ ] Line exceeds 80 characters; contains 103 characters
+ 16 | [31mERROR[0m   | [x] Line indented incorrectly; expected 2 spaces, found 12
+ 17 | [31mERROR[0m   | [x] Line indented incorrectly; expected 2 spaces, found 12
+ 18 | [31mERROR[0m   | [x] Line indented incorrectly; expected 2 spaces, found 12
+ 19 | [33mWARNING[0m | [ ] Line exceeds 80 characters; contains 194 characters
+ 19 | [31mERROR[0m   | [ ] Line exceeds maximum limit of 120 characters; contains 194 characters
+ 19 | [31mERROR[0m   | [x] Line indented incorrectly; expected 2 spaces, found 12
+ 20 | [31mERROR[0m   | [x] Line indented incorrectly; expected 2 spaces, found 12
+ 20 | [33mWARNING[0m | [ ] Please trim any trailing whitespace
+ 21 | [31mERROR[0m   | [x] Spaces must be used to indent lines; tabs are not allowed
+ 21 | [33mWARNING[0m | [ ] This comment is 75% valid code; is this commented out code?
+ 21 | [31mERROR[0m   | [x] Line indented incorrectly; expected 2 spaces, found 12
+ 21 | [31mERROR[0m   | [x] Block comment text must start on a new line
+ 22 | [31mERROR[0m   | [x] Line indented incorrectly; expected 2 spaces, found 12
+ 23 | [31mERROR[0m   | [x] Line indented incorrectly; expected 2 spaces, found 12
+ 24 | [31mERROR[0m   | [x] Line indented incorrectly; expected 2 spaces, found 12
+ 25 | [31mERROR[0m   | [x] Line indented incorrectly; expected 2 spaces, found 12
+ 25 | [33mWARNING[0m | [ ] Please trim any trailing whitespace
+ 26 | [31mERROR[0m   | [x] Spaces must be used to indent lines; tabs are not allowed
+ 26 | [31mERROR[0m   | [x] Line indented incorrectly; expected 2 tabs, found 1
+ 26 | [31mERROR[0m   | [x] Line indented incorrectly; expected 8 spaces, found 4
+ 26 | [31mERROR[0m   | [x] Line indented incorrectly; expected 8 spaces, found 4
+ 26 | [31mERROR[0m   | [x] Expected 1 blank line before closing function brace; 0 found
+ 26 | [31mERROR[0m   | [x] Expected 2 blank lines after function; 1 found
+ 26 | [31mERROR[0m   | [x] Closing brace indented incorrectly; expected 8 spaces, found 4
+ 26 | [31mERROR[0m   | [x] Closing brace indented incorrectly; expected 8 spaces, found 4
+ 26 | [31mERROR[0m   | [x] Closing brace indented incorrectly; expected 8 spaces, found 4
+ 26 | [31mERROR[0m   | [x] Blank line found after control structure
+ 26 | [33mWARNING[0m | [ ] Please trim any trailing whitespace
+ 27 | [33mWARNING[0m | [ ] Please trim any trailing whitespace
+ 27 | [31mERROR[0m   | [x] Spaces must be used to indent lines; tabs are not allowed
+ 28 | [31mERROR[0m   | [x] Expected 1 newline at end of file; 0 found
+ 28 | [31mERROR[0m   | [x] Expected 1 newline at end of file; 0 found
+ 28 | [31mERROR[0m   | [x] File must end with a newline character
+ 28 | [31mERROR[0m   | [ ] Expected 0 spaces before closing brace; newline found
+ 28 | [31mERROR[0m   | [x] The closing brace for the class must go on the next line after the body
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[1mPHPCBF CAN FIX THE 86 MARKED SNIFF VIOLATIONS AUTOMATICALLY[0m
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+

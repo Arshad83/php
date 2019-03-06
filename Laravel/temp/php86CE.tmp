@@ -1,0 +1,365 @@
+
+[1mFILE: C:\Users\Prakash\AppData\Local\Temp\fz3temp-2\view.php[0m
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[1mFOUND 286 ERRORS AND 70 WARNINGS AFFECTING 115 LINES[0m
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+   2 | [31mERROR[0m   | [ ] You must use "/**" style comments for a file comment
+   3 | [31mERROR[0m   | [ ] You must use "/**" style comments for a file comment
+   3 | [31mERROR[0m   | [x] You must use "/**" style comments for a file comment
+  16 | [33mWARNING[0m | [x] There must be no blank line following an inline comment
+  16 | [33mWARNING[0m | [ ] There must be no blank line following an inline comment
+  16 | [31mERROR[0m   | [x] There must be no blank line following an inline comment
+  19 | [31mERROR[0m   | [x] Doc comment short description must end with a full stop
+  21 | [31mERROR[0m   | [x] Tag value indented incorrectly; expected 1 space but found 4
+  22 | [31mERROR[0m   | [x] Separate the @package and @copyright sections by a blank line.
+  22 | [31mERROR[0m   | [x] Tag value indented incorrectly; expected 1 space but found 2
+  23 | [31mERROR[0m   | [x] Separate the @copyright and @license sections by a blank line.
+  23 | [31mERROR[0m   | [x] Tag value indented incorrectly; expected 1 space but found 4
+  26 | [31mERROR[0m   | [x] Language constructs must be followed by a single space; expected "require_once (" but found "require_once("
+  26 | [31mERROR[0m   | [x] "require_once" is a statement not a function; no parentheses are required
+  26 | [31mERROR[0m   | [x] String "../../config.php" does not require double quotes; use single quotes instead
+  27 | [31mERROR[0m   | [x] Language constructs must be followed by a single space; expected "require_once (" but found "require_once("
+  27 | [31mERROR[0m   | [x] "require_once" is a statement not a function; no parentheses are required
+  27 | [33mWARNING[0m | [ ] Variable $CFG is undefined.
+  27 | [31mERROR[0m   | [ ] Variable "CFG" is not in snake_case format
+  28 | [31mERROR[0m   | [x] Language constructs must be followed by a single space; expected "require_once (" but found "require_once("
+  28 | [31mERROR[0m   | [x] "require_once" is a statement not a function; no parentheses are required
+  28 | [33mWARNING[0m | [ ] Variable $CFG is undefined.
+  28 | [31mERROR[0m   | [ ] Variable "CFG" is not in snake_case format
+  29 | [31mERROR[0m   | [x] Language constructs must be followed by a single space; expected "require_once (" but found "require_once("
+  29 | [31mERROR[0m   | [x] "require_once" is a statement not a function; no parentheses are required
+  29 | [33mWARNING[0m | [ ] Variable $CFG is undefined.
+  29 | [31mERROR[0m   | [ ] Variable "CFG" is not in snake_case format
+  31 | [31mERROR[0m   | [x] Equals sign not aligned with surrounding assignments; expected 5 spaces but found 1 space
+  31 | [31mERROR[0m   | [ ] Inline comments must end in full-stops, exclamation marks, or question marks
+  31 | [31mERROR[0m   | [x] Comments may not appear after statements
+  31 | [31mERROR[0m   | [x] Inline comments must end in full-stops, exclamation marks, colons, or question marks
+  31 | [31mERROR[0m   | [x] Comments may not appear after statements
+  33 | [31mERROR[0m   | [x] Equals sign not aligned with surrounding assignments; expected 3 spaces but found 1 space
+  35 | [31mERROR[0m   | [x] No space after opening parenthesis is prohibited
+  35 | [31mERROR[0m   | [ ] Operator ! prohibited; use === FALSE instead
+  35 | [31mERROR[0m   | [x] Expected 1 space before "!"; 0 found
+  35 | [31mERROR[0m   | [x] Expected 1 space after "!"; 0 found
+  35 | [31mERROR[0m   | [ ] Assignments must be the first block of code on a line
+  35 | [31mERROR[0m   | [x] No space before closing parenthesis is prohibited
+  36 | [31mERROR[0m   | [x] Tabs must be used to indent lines; spaces are not allowed
+  36 | [31mERROR[0m   | [x] Line indented incorrectly; expected 2 spaces, found 4
+  37 | [31mERROR[0m   | [x] No blank line found after control structure
+  38 | [31mERROR[0m   | [x] No space after opening parenthesis is prohibited
+  38 | [31mERROR[0m   | [ ] Operator ! prohibited; use === FALSE instead
+  38 | [31mERROR[0m   | [x] Expected 1 space before "!"; 0 found
+  38 | [31mERROR[0m   | [x] Expected 1 space after "!"; 0 found
+  38 | [31mERROR[0m   | [ ] Assignments must be the first block of code on a line
+  38 | [33mWARNING[0m | [ ] Variable $DB is undefined.
+  38 | [31mERROR[0m   | [ ] Variable "DB" is camel caps format. do not use mixed case (camelCase), use lower case and _
+  38 | [31mERROR[0m   | [ ] Variable "DB" is not in valid snake_case format
+  38 | [31mERROR[0m   | [x] Missing space after array opener.
+  38 | [31mERROR[0m   | [x] Expected 1 space between "'id'" and double arrow; 0 found
+  38 | [31mERROR[0m   | [x] Expected 1 space between "'id'" and double arrow; 0 found
+  38 | [31mERROR[0m   | [x] Expected 1 space before "=>"; 0 found
+  38 | [31mERROR[0m   | [x] Expected 1 space before "=>"; 0 found
+  38 | [31mERROR[0m   | [ ] Add a single space around assignment operators
+  38 | [31mERROR[0m   | [x] Expected 1 space before "=>"; 0 found
+  38 | [31mERROR[0m   | [x] Missing space before array closer.
+  38 | [31mERROR[0m   | [x] No space before closing parenthesis is prohibited
+  39 | [31mERROR[0m   | [x] Tabs must be used to indent lines; spaces are not allowed
+  39 | [31mERROR[0m   | [x] Line indented incorrectly; expected 2 spaces, found 4
+  40 | [31mERROR[0m   | [x] No blank line found after control structure
+  41 | [31mERROR[0m   | [x] No space after opening parenthesis is prohibited
+  41 | [31mERROR[0m   | [ ] Operator ! prohibited; use === FALSE instead
+  41 | [31mERROR[0m   | [x] Expected 1 space before "!"; 0 found
+  41 | [31mERROR[0m   | [x] Expected 1 space after "!"; 0 found
+  41 | [31mERROR[0m   | [ ] Assignments must be the first block of code on a line
+  41 | [33mWARNING[0m | [ ] Variable $DB is undefined.
+  41 | [31mERROR[0m   | [ ] Variable "DB" is camel caps format. do not use mixed case (camelCase), use lower case and _
+  41 | [31mERROR[0m   | [ ] Variable "DB" is not in valid snake_case format
+  41 | [31mERROR[0m   | [x] Missing space after array opener.
+  41 | [31mERROR[0m   | [x] Expected 1 space between "'id'" and double arrow; 0 found
+  41 | [31mERROR[0m   | [x] Expected 1 space between "'id'" and double arrow; 0 found
+  41 | [31mERROR[0m   | [x] Expected 1 space before "=>"; 0 found
+  41 | [31mERROR[0m   | [x] Expected 1 space before "=>"; 0 found
+  41 | [31mERROR[0m   | [ ] Add a single space around assignment operators
+  41 | [31mERROR[0m   | [x] Expected 1 space before "=>"; 0 found
+  41 | [31mERROR[0m   | [x] Missing space before array closer.
+  41 | [31mERROR[0m   | [x] No space before closing parenthesis is prohibited
+  41 | [33mWARNING[0m | [ ] Line exceeds 80 characters; contains 82 characters
+  42 | [31mERROR[0m   | [x] Tabs must be used to indent lines; spaces are not allowed
+  42 | [31mERROR[0m   | [x] Line indented incorrectly; expected 2 spaces, found 4
+  45 | [31mERROR[0m   | [x] TRUE, FALSE and NULL must be uppercase; expected "FALSE" but found "false"
+  46 | [31mERROR[0m   | [ ] Static method called on non-included class or system "context_module"; include system with Channels::includeSystem() or include class with require_once
+  49 | [33mWARNING[0m | [ ] This comment is 65% valid code; is this commented out code?
+  49 | [31mERROR[0m   | [x] Block comment text must start on a new line
+  50 | [31mERROR[0m   | [x] Line indented incorrectly; expected 0 spaces, found 4
+  51 | [31mERROR[0m   | [x] Line indented incorrectly; expected 0 spaces, found 4
+  56 | [33mWARNING[0m | [ ] This comment is 63% valid code; is this commented out code?
+  56 | [31mERROR[0m   | [x] No space found before comment text; expected "// $link = new moodle_url('/mod/certificate/view.php?id='.$cm->id.'&action=get');" but found "//$link = new moodle_url('/mod/certificate/view.php?id='.$cm->id.'&action=get');"
+  56 | [31mERROR[0m   | [x] No space found before comment text; expected "// $link = new moodle_url('/mod/certificate/view.php?id='.$cm->id.'&action=get');" but found "//$link = new moodle_url('/mod/certificate/view.php?id='.$cm->id.'&action=get');"
+  57 | [31mERROR[0m   | [x] Block comment text must start on a new line
+  59 | [33mWARNING[0m | [ ] Line exceeds 80 characters; contains 100 characters
+  59 | [33mWARNING[0m | [ ] Line exceeds 80 characters; contains 100 characters
+  59 | [31mERROR[0m   | [x] Line indented incorrectly; expected 0 spaces, found 5
+  65 | [31mERROR[0m   | [x] Expected 1 space before "="; 0 found
+  65 | [31mERROR[0m   | [x] Expected 1 space after "="; 0 found
+  65 | [31mERROR[0m   | [x] Equals sign not aligned correctly; expected 1 space but found 0 spaces
+  65 | [31mERROR[0m   | [x] Expected 1 space before "="; 0 found
+  65 | [31mERROR[0m   | [x] Expected 1 space after "="; 0 found
+  65 | [31mERROR[0m   | [ ] Add a single space around assignment operators
+  65 | [31mERROR[0m   | [x] Expected 1 space before "="; 0 found
+  65 | [31mERROR[0m   | [x] Expected 1 space after "="; 0 found
+  68 | [33mWARNING[0m | [ ] This comment is 56% valid code; is this commented out code?
+  69 | [31mERROR[0m   | [x] No space found before comment text; expected "// $PAGE->set_url('/mod/certificate/view.php', array('id' => $cm->id));" but found "//$PAGE->set_url('/mod/certificate/view.php', array('id' => $cm->id));"
+  69 | [31mERROR[0m   | [ ] Inline comments must end in full-stops, exclamation marks, or question marks
+  69 | [31mERROR[0m   | [x] No space found before comment text; expected "// $PAGE->set_url('/mod/certificate/view.php', array('id' => $cm->id));" but found "//$PAGE->set_url('/mod/certificate/view.php', array('id' => $cm->id));"
+  69 | [31mERROR[0m   | [x] Inline comments must end in full-stops, exclamation marks, colons, or question marks
+  70 | [33mWARNING[0m | [ ] Variable $PAGE is undefined.
+  70 | [31mERROR[0m   | [ ] Variable "PAGE" is camel caps format. do not use mixed case (camelCase), use lower case and _
+  70 | [31mERROR[0m   | [ ] Variable "PAGE" is not in valid snake_case format
+  71 | [33mWARNING[0m | [ ] Variable $PAGE is undefined.
+  71 | [31mERROR[0m   | [ ] Variable "PAGE" is camel caps format. do not use mixed case (camelCase), use lower case and _
+  71 | [31mERROR[0m   | [ ] Variable "PAGE" is not in valid snake_case format
+  72 | [33mWARNING[0m | [ ] Variable $PAGE is undefined.
+  72 | [31mERROR[0m   | [ ] Variable "PAGE" is camel caps format. do not use mixed case (camelCase), use lower case and _
+  72 | [31mERROR[0m   | [ ] Variable "PAGE" is not in valid snake_case format
+  73 | [33mWARNING[0m | [ ] Variable $PAGE is undefined.
+  73 | [31mERROR[0m   | [ ] Variable "PAGE" is camel caps format. do not use mixed case (camelCase), use lower case and _
+  73 | [31mERROR[0m   | [ ] Variable "PAGE" is not in valid snake_case format
+  75 | [31mERROR[0m   | [x] No space after opening parenthesis is prohibited
+  75 | [33mWARNING[0m | [ ] Found: !=. Use strict comparisons (=== or !==).
+  75 | [31mERROR[0m   | [ ] Operator != prohibited; use !== instead
+  75 | [31mERROR[0m   | [ ] Use Yoda Condition checks, you must
+  75 | [31mERROR[0m   | [ ] Logical operator "and" is prohibited; use "&&" instead
+  75 | [33mWARNING[0m | [ ] Variable $PAGE is undefined.
+  75 | [31mERROR[0m   | [ ] Variable "PAGE" is camel caps format. do not use mixed case (camelCase), use lower case and _
+  75 | [31mERROR[0m   | [ ] Variable "PAGE" is not in valid snake_case format
+  75 | [31mERROR[0m   | [x] No space before closing parenthesis is prohibited
+  76 | [31mERROR[0m   | [x] Tabs must be used to indent lines; spaces are not allowed
+  76 | [33mWARNING[0m | [ ] Variable $USER is undefined.
+  76 | [31mERROR[0m   | [x] Line indented incorrectly; expected 2 spaces, found 5
+  76 | [31mERROR[0m   | [ ] Variable "USER" is camel caps format. do not use mixed case (camelCase), use lower case and _
+  76 | [31mERROR[0m   | [ ] Variable "USER" is not in valid snake_case format
+  79 | [31mERROR[0m   | [ ] Inline comments must end in full-stops, exclamation marks, or question marks
+  79 | [31mERROR[0m   | [x] Inline comments must end in full-stops, exclamation marks, colons, or question marks
+  80 | [31mERROR[0m   | [ ] Implicit true comparisons prohibited; use === TRUE instead
+  80 | [31mERROR[0m   | [x] No space after opening parenthesis is prohibited
+  80 | [33mWARNING[0m | [ ] Variable $PAGE is undefined.
+  80 | [31mERROR[0m   | [ ] Variable "PAGE" is camel caps format. do not use mixed case (camelCase), use lower case and _
+  80 | [31mERROR[0m   | [ ] Variable "PAGE" is not in valid snake_case format
+  80 | [31mERROR[0m   | [x] No space before closing parenthesis is prohibited
+  81 | [31mERROR[0m   | [x] Tabs must be used to indent lines; spaces are not allowed
+  81 | [31mERROR[0m   | [x] Line indented incorrectly; expected 2 spaces, found 4
+  81 | [31mERROR[0m   | [ ] The value of a comparison must not be assigned to a variable
+  81 | [33mWARNING[0m | [ ] Variable $PAGE is undefined.
+  81 | [31mERROR[0m   | [ ] Variable "PAGE" is camel caps format. do not use mixed case (camelCase), use lower case and _
+  81 | [31mERROR[0m   | [ ] Variable "PAGE" is not in valid snake_case format
+  81 | [31mERROR[0m   | [ ] Inline IF statements are not allowed
+  82 | [31mERROR[0m   | [x] Tabs must be used to indent lines; spaces are not allowed
+  82 | [31mERROR[0m   | [x] Line indented incorrectly; expected 2 spaces, found 4
+  82 | [31mERROR[0m   | [ ] The value of a comparison must not be assigned to a variable
+  82 | [33mWARNING[0m | [ ] Variable $PAGE is undefined.
+  82 | [31mERROR[0m   | [ ] Variable "PAGE" is camel caps format. do not use mixed case (camelCase), use lower case and _
+  82 | [31mERROR[0m   | [ ] Variable "PAGE" is not in valid snake_case format
+  82 | [31mERROR[0m   | [ ] Inline IF statements are not allowed
+  82 | [33mWARNING[0m | [ ] Line exceeds 80 characters; contains 101 characters
+  83 | [31mERROR[0m   | [x] Tabs must be used to indent lines; spaces are not allowed
+  83 | [31mERROR[0m   | [x] Line indented incorrectly; expected 2 spaces, found 4
+  83 | [31mERROR[0m   | [x] Equals sign not aligned with surrounding assignments; expected 7 spaces but found 1 space
+  83 | [33mWARNING[0m | [ ] Variable $CFG is undefined.
+  83 | [31mERROR[0m   | [ ] Variable "CFG" is camel caps format. do not use mixed case (camelCase), use lower case and _
+  83 | [31mERROR[0m   | [ ] Variable "CFG" is not in valid snake_case format
+  83 | [31mERROR[0m   | [x] Missing space after array opener.
+  83 | [31mERROR[0m   | [x] Missing space before array closer.
+  83 | [33mWARNING[0m | [ ] Line exceeds 80 characters; contains 117 characters
+  84 | [31mERROR[0m   | [x] Tabs must be used to indent lines; spaces are not allowed
+  84 | [33mWARNING[0m | [ ] Variable $PAGE is undefined.
+  84 | [31mERROR[0m   | [x] Line indented incorrectly; expected 2 spaces, found 4
+  84 | [31mERROR[0m   | [ ] Variable "PAGE" is camel caps format. do not use mixed case (camelCase), use lower case and _
+  84 | [31mERROR[0m   | [ ] Variable "PAGE" is not in valid snake_case format
+  84 | [33mWARNING[0m | [ ] Variable $OUTPUT is undefined.
+  84 | [31mERROR[0m   | [ ] Variable "OUTPUT" is camel caps format. do not use mixed case (camelCase), use lower case and _
+  84 | [31mERROR[0m   | [ ] Variable "OUTPUT" is not in valid snake_case format
+  87 | [31mERROR[0m   | [ ] Inline comments must end in full-stops, exclamation marks, or question marks
+  87 | [31mERROR[0m   | [x] Inline comments must end in full-stops, exclamation marks, colons, or question marks
+  88 | [31mERROR[0m   | [ ] Implicit true comparisons prohibited; use === TRUE instead
+  88 | [31mERROR[0m   | [x] No space after opening parenthesis is prohibited
+  88 | [31mERROR[0m   | [ ] Operator ! prohibited; use === FALSE instead
+  88 | [31mERROR[0m   | [x] Expected 1 space after "!"; 0 found
+  88 | [31mERROR[0m   | [x] No space before closing parenthesis is prohibited
+  88 | [33mWARNING[0m | [ ] Line exceeds 80 characters; contains 88 characters
+  89 | [31mERROR[0m   | [x] Tabs must be used to indent lines; spaces are not allowed
+  89 | [31mERROR[0m   | [x] Line indented incorrectly; expected 2 spaces, found 4
+  89 | [31mERROR[0m   | [x] No space after opening parenthesis is prohibited
+  89 | [31mERROR[0m   | [x] No space before closing parenthesis is prohibited
+  89 | [33mWARNING[0m | [ ] Line exceeds 80 characters; contains 87 characters
+  90 | [31mERROR[0m   | [x] Tabs must be used to indent lines; spaces are not allowed
+  90 | [31mERROR[0m   | [x] Line indented incorrectly; expected 4 spaces, found 8
+  90 | [31mERROR[0m   | [x] Equals sign not aligned with surrounding assignments; expected 15 spaces but found 1 space
+  90 | [31mERROR[0m   | [ ] Use parentheses when instantiating classes
+  90 | [31mERROR[0m   | [x] Calling class constructors must always include parentheses
+  91 | [31mERROR[0m   | [x] Tabs must be used to indent lines; spaces are not allowed
+  91 | [31mERROR[0m   | [x] Line indented incorrectly; expected 4 spaces, found 8
+  92 | [31mERROR[0m   | [x] Tabs must be used to indent lines; spaces are not allowed
+  92 | [31mERROR[0m   | [x] Line indented incorrectly; expected 4 spaces, found 8
+  92 | [33mWARNING[0m | [ ] Variable $CFG is undefined.
+  92 | [31mERROR[0m   | [ ] Variable "CFG" is not in snake_case format
+  92 | [33mWARNING[0m | [ ] Line exceeds 80 characters; contains 116 characters
+  93 | [31mERROR[0m   | [x] Tabs must be used to indent lines; spaces are not allowed
+  93 | [31mERROR[0m   | [x] Line indented incorrectly; expected 4 spaces, found 8
+  94 | [31mERROR[0m   | [x] Tabs must be used to indent lines; spaces are not allowed
+  97 | [31mERROR[0m   | [ ] Inline comments must end in full-stops, exclamation marks, or question marks
+  97 | [31mERROR[0m   | [x] Inline comments must end in full-stops, exclamation marks, colons, or question marks
+  98 | [33mWARNING[0m | [ ] Variable $USER is undefined.
+  98 | [31mERROR[0m   | [ ] Variable "USER" is camel caps format. do not use mixed case (camelCase), use lower case and _
+  98 | [31mERROR[0m   | [ ] Variable "USER" is not in valid snake_case format
+ 103 | [31mERROR[0m   | [x] Language constructs must be followed by a single space; expected "require (" but found "require("
+ 103 | [31mERROR[0m   | [x] "require" is a statement not a function; no parentheses are required
+ 103 | [33mWARNING[0m | [ ] Variable $CFG is undefined.
+ 103 | [31mERROR[0m   | [ ] Variable "CFG" is not in snake_case format
+ 103 | [33mWARNING[0m | [ ] Line exceeds 80 characters; contains 92 characters
+ 105 | [33mWARNING[0m | [ ] This comment is 58% valid code; is this commented out code?
+ 106 | [31mERROR[0m   | [ ] Block comments must start with a capital letter
+ 107 | [31mERROR[0m   | [x] Line indented incorrectly; expected 0 spaces, found 4
+ 109 | [33mWARNING[0m | [ ] Line exceeds 80 characters; contains 83 characters
+ 109 | [33mWARNING[0m | [ ] Line exceeds 80 characters; contains 83 characters
+ 109 | [31mERROR[0m   | [x] Line indented incorrectly; expected 0 spaces, found 4
+ 110 | [31mERROR[0m   | [x] Line indented incorrectly; expected 0 spaces, found 4
+ 111 | [31mERROR[0m   | [x] Line indented incorrectly; expected 0 spaces, found 4
+ 112 | [31mERROR[0m   | [x] Line indented incorrectly; expected 0 spaces, found 4
+ 114 | [31mERROR[0m   | [x] Line indented incorrectly; expected 0 spaces, found 4
+ 115 | [33mWARNING[0m | [ ] Line exceeds 80 characters; contains 107 characters
+ 115 | [33mWARNING[0m | [ ] Line exceeds 80 characters; contains 107 characters
+ 115 | [31mERROR[0m   | [x] Line indented incorrectly; expected 0 spaces, found 8
+ 116 | [33mWARNING[0m | [ ] Line exceeds 80 characters; contains 98 characters
+ 116 | [33mWARNING[0m | [ ] Line exceeds 80 characters; contains 98 characters
+ 116 | [31mERROR[0m   | [x] Line indented incorrectly; expected 0 spaces, found 8
+ 117 | [33mWARNING[0m | [ ] Line exceeds 80 characters; contains 90 characters
+ 117 | [33mWARNING[0m | [ ] Line exceeds 80 characters; contains 90 characters
+ 117 | [31mERROR[0m   | [x] Line indented incorrectly; expected 0 spaces, found 12
+ 118 | [31mERROR[0m   | [x] Line indented incorrectly; expected 0 spaces, found 8
+ 119 | [31mERROR[0m   | [x] Line indented incorrectly; expected 0 spaces, found 4
+ 121 | [31mERROR[0m   | [x] Line indented incorrectly; expected 0 spaces, found 4
+ 122 | [33mWARNING[0m | [ ] Line exceeds 80 characters; contains 108 characters
+ 122 | [33mWARNING[0m | [ ] Line exceeds 80 characters; contains 108 characters
+ 122 | [31mERROR[0m   | [x] Line indented incorrectly; expected 0 spaces, found 8
+ 123 | [31mERROR[0m   | [x] Line indented incorrectly; expected 0 spaces, found 4
+ 125 | [31mERROR[0m   | [x] Line indented incorrectly; expected 0 spaces, found 4
+ 126 | [31mERROR[0m   | [x] Line indented incorrectly; expected 0 spaces, found 8
+ 127 | [31mERROR[0m   | [x] Line indented incorrectly; expected 0 spaces, found 4
+ 128 | [31mERROR[0m   | [x] Line indented incorrectly; expected 0 spaces, found 4
+ 129 | [31mERROR[0m   | [x] Line indented incorrectly; expected 0 spaces, found 8
+ 130 | [31mERROR[0m   | [x] Line indented incorrectly; expected 0 spaces, found 4
+ 131 | [31mERROR[0m   | [x] Line indented incorrectly; expected 0 spaces, found 8
+ 132 | [31mERROR[0m   | [x] Line indented incorrectly; expected 0 spaces, found 4
+ 133 | [31mERROR[0m   | [x] Line indented incorrectly; expected 0 spaces, found 8
+ 134 | [31mERROR[0m   | [x] Line indented incorrectly; expected 0 spaces, found 4
+ 135 | [31mERROR[0m   | [x] Line indented incorrectly; expected 0 spaces, found 4
+ 136 | [31mERROR[0m   | [x] Line indented incorrectly; expected 0 spaces, found 4
+ 138 | [33mWARNING[0m | [ ] Line exceeds 80 characters; contains 82 characters
+ 138 | [33mWARNING[0m | [ ] Line exceeds 80 characters; contains 82 characters
+ 138 | [31mERROR[0m   | [x] Line indented incorrectly; expected 0 spaces, found 4
+ 139 | [31mERROR[0m   | [x] Line indented incorrectly; expected 0 spaces, found 4
+ 140 | [31mERROR[0m   | [x] Line indented incorrectly; expected 0 spaces, found 4
+ 141 | [33mWARNING[0m | [ ] Line exceeds 80 characters; contains 120 characters
+ 141 | [33mWARNING[0m | [ ] Line exceeds 80 characters; contains 120 characters
+ 141 | [31mERROR[0m   | [x] Line indented incorrectly; expected 0 spaces, found 8
+ 142 | [31mERROR[0m   | [x] Line indented incorrectly; expected 0 spaces, found 4
+ 144 | [33mWARNING[0m | [ ] Line exceeds 80 characters; contains 98 characters
+ 144 | [33mWARNING[0m | [ ] Line exceeds 80 characters; contains 98 characters
+ 144 | [31mERROR[0m   | [x] Line indented incorrectly; expected 0 spaces, found 4
+ 145 | [31mERROR[0m   | [x] Line indented incorrectly; expected 0 spaces, found 4
+ 146 | [31mERROR[0m   | [x] Line indented incorrectly; expected 0 spaces, found 4
+ 147 | [31mERROR[0m   | [x] Line indented incorrectly; expected 0 spaces, found 4
+ 149 | [31mERROR[0m   | [x] Line indented incorrectly; expected 1 spaces, found 0
+ 151 | [31mERROR[0m   | [x] Tabs must be used to indent lines; spaces are not allowed
+ 151 | [31mERROR[0m   | [x] Line indented incorrectly; expected 0 spaces, found 4
+ 152 | [31mERROR[0m   | [x] Tabs must be used to indent lines; spaces are not allowed
+ 152 | [33mWARNING[0m | [ ] Variable $CFG is undefined.
+ 152 | [31mERROR[0m   | [x] Line indented incorrectly; expected 0 spaces, found 4
+ 152 | [31mERROR[0m   | [ ] Variable "CFG" is camel caps format. do not use mixed case (camelCase), use lower case and _
+ 152 | [31mERROR[0m   | [ ] Variable "CFG" is not in valid snake_case format
+ 153 | [31mERROR[0m   | [x] Tabs must be used to indent lines; spaces are not allowed
+ 153 | [33mWARNING[0m | [ ] Silencing errors is discouraged
+ 153 | [31mERROR[0m   | [x] Line indented incorrectly; expected 0 spaces, found 4
+ 154 | [31mERROR[0m   | [x] Tabs must be used to indent lines; spaces are not allowed
+ 154 | [33mWARNING[0m | [ ] Silencing errors is discouraged
+ 154 | [31mERROR[0m   | [x] Line indented incorrectly; expected 0 spaces, found 4
+ 156 | [31mERROR[0m   | [x] Tabs must be used to indent lines; spaces are not allowed
+ 156 | [31mERROR[0m   | [x] Line indented incorrectly; expected 0 spaces, found 4
+ 156 | [33mWARNING[0m | [ ] Line exceeds 80 characters; contains 90 characters
+ 158 | [31mERROR[0m   | [x] Tabs must be used to indent lines; spaces are not allowed
+ 158 | [31mERROR[0m   | [x] Line indented incorrectly; expected 0 spaces, found 4
+ 159 | [31mERROR[0m   | [x] Tabs must be used to indent lines; spaces are not allowed
+ 159 | [31mERROR[0m   | [x] Line indented incorrectly; expected 0 spaces, found 4
+ 159 | [33mWARNING[0m | [ ] Variable $pdf is undefined.
+ 161 | [31mERROR[0m   | [x] Tabs must be used to indent lines; spaces are not allowed
+ 161 | [31mERROR[0m   | [x] Line indented incorrectly; expected 0 tabs, found 1
+ 161 | [31mERROR[0m   | [x] Line indented incorrectly; expected 0 spaces, found 4
+ 161 | [31mERROR[0m   | [x] Line indented incorrectly; expected 0 spaces, found 4
+ 161 | [31mERROR[0m   | [x] No space after opening parenthesis is prohibited
+ 161 | [33mWARNING[0m | [ ] Found: ==. Use strict comparisons (=== or !==).
+ 161 | [31mERROR[0m   | [ ] Operator == prohibited; use === instead
+ 161 | [31mERROR[0m   | [x] No space before closing parenthesis is prohibited
+ 162 | [31mERROR[0m   | [x] Tabs must be used to indent lines; spaces are not allowed
+ 162 | [31mERROR[0m   | [x] Line indented incorrectly; expected 2 spaces, found 8
+ 162 | [33mWARNING[0m | [ ] Line exceeds 80 characters; contains 86 characters
+ 163 | [31mERROR[0m   | [x] Tabs must be used to indent lines; spaces are not allowed
+ 165 | [31mERROR[0m   | [x] Tabs must be used to indent lines; spaces are not allowed
+ 165 | [31mERROR[0m   | [x] No space after opening parenthesis is prohibited
+ 165 | [33mWARNING[0m | [ ] Found: ==. Use strict comparisons (=== or !==).
+ 165 | [31mERROR[0m   | [ ] Operator == prohibited; use === instead
+ 165 | [31mERROR[0m   | [x] No space before closing parenthesis is prohibited
+ 166 | [31mERROR[0m   | [x] Tabs must be used to indent lines; spaces are not allowed
+ 166 | [31mERROR[0m   | [x] Line indented incorrectly; expected 6 spaces, found 8
+ 167 | [31mERROR[0m   | [x] Tabs must be used to indent lines; spaces are not allowed
+ 167 | [31mERROR[0m   | [x] Line indented incorrectly; expected 6 spaces, found 8
+ 167 | [31mERROR[0m   | [x] TRUE, FALSE and NULL must be uppercase; expected "TRUE" but found "true"
+ 167 | [31mERROR[0m   | [x] TRUE, FALSE and NULL must be uppercase; expected "FALSE" but found "false"
+ 167 | [33mWARNING[0m | [ ] Line exceeds 80 characters; contains 82 characters
+ 168 | [31mERROR[0m   | [x] Tabs must be used to indent lines; spaces are not allowed
+ 168 | [31mERROR[0m   | [x] Expected newline after closing brace
+ 168 | [31mERROR[0m   | [x] Usage of ELSEIF not allowed; use ELSE IF instead
+ 168 | [31mERROR[0m   | [x] No space after opening parenthesis is prohibited
+ 168 | [33mWARNING[0m | [ ] Found: ==. Use strict comparisons (=== or !==).
+ 168 | [31mERROR[0m   | [ ] Operator == prohibited; use === instead
+ 168 | [31mERROR[0m   | [x] No space before closing parenthesis is prohibited
+ 169 | [31mERROR[0m   | [x] Tabs must be used to indent lines; spaces are not allowed
+ 169 | [31mERROR[0m   | [x] Line indented incorrectly; expected 6 spaces, found 8
+ 170 | [31mERROR[0m   | [x] Tabs must be used to indent lines; spaces are not allowed
+ 170 | [31mERROR[0m   | [x] Line indented incorrectly; expected 6 spaces, found 8
+ 170 | [31mERROR[0m   | [x] TRUE, FALSE and NULL must be uppercase; expected "TRUE" but found "true"
+ 170 | [31mERROR[0m   | [x] TRUE, FALSE and NULL must be uppercase; expected "TRUE" but found "true"
+ 170 | [33mWARNING[0m | [ ] Line exceeds 80 characters; contains 81 characters
+ 171 | [31mERROR[0m   | [x] Tabs must be used to indent lines; spaces are not allowed
+ 171 | [31mERROR[0m   | [x] Expected newline after closing brace
+ 171 | [31mERROR[0m   | [x] Usage of ELSEIF not allowed; use ELSE IF instead
+ 171 | [31mERROR[0m   | [x] No space after opening parenthesis is prohibited
+ 171 | [33mWARNING[0m | [ ] Found: ==. Use strict comparisons (=== or !==).
+ 171 | [31mERROR[0m   | [ ] Operator == prohibited; use === instead
+ 171 | [31mERROR[0m   | [x] No space before closing parenthesis is prohibited
+ 172 | [31mERROR[0m   | [x] Tabs must be used to indent lines; spaces are not allowed
+ 172 | [31mERROR[0m   | [x] Line indented incorrectly; expected 6 spaces, found 8
+ 172 | [33mWARNING[0m | [ ] Line exceeds 80 characters; contains 106 characters
+ 173 | [31mERROR[0m   | [x] Tabs must be used to indent lines; spaces are not allowed
+ 173 | [31mERROR[0m   | [x] Line indented incorrectly; expected 6 spaces, found 8
+ 174 | [31mERROR[0m   | [x] Tabs must be used to indent lines; spaces are not allowed
+ 174 | [33mWARNING[0m | [ ] Line exceeds 80 characters; contains 84 characters
+ 174 | [33mWARNING[0m | [ ] Line exceeds 80 characters; contains 84 characters
+ 174 | [33mWARNING[0m | [ ] This comment is 70% valid code; is this commented out code?
+ 174 | [31mERROR[0m   | [x] Line indented incorrectly; expected 6 spaces, found 8
+ 174 | [31mERROR[0m   | [x] No space found before comment text; expected "// send_file($filecontents, $filename, 0, 0, true, false, 'application/pdf');" but found "//send_file($filecontents, $filename, 0, 0, true, false, 'application/pdf');"
+ 174 | [31mERROR[0m   | [ ] Inline comments must end in full-stops, exclamation marks, or question marks
+ 174 | [31mERROR[0m   | [x] No space found before comment text; expected "// send_file($filecontents, $filename, 0, 0, true, false, 'application/pdf');" but found "//send_file($filecontents, $filename, 0, 0, true, false, 'application/pdf');"
+ 174 | [31mERROR[0m   | [x] Inline comments must end in full-stops, exclamation marks, colons, or question marks
+ 175 | [31mERROR[0m   | [x] Tabs must be used to indent lines; spaces are not allowed
+ 175 | [31mERROR[0m   | [x] No blank line found after control structure
+ 176 | [33mWARNING[0m | [ ] This comment is 100% valid code; is this commented out code?
+ 176 | [33mWARNING[0m | [ ] There must be no blank line following an inline comment
+ 176 | [31mERROR[0m   | [x] Line indented incorrectly; expected at least 4 spaces, found 0
+ 176 | [31mERROR[0m   | [x] Line indented incorrectly; expected 4 spaces, found 0
+ 176 | [31mERROR[0m   | [x] No space found before comment text; expected "// }" but found "//}"
+ 176 | [31mERROR[0m   | [x] There must be no blank line following an inline comment
+ 176 | [31mERROR[0m   | [x] No space found before comment text; expected "// }" but found "//}"
+ 176 | [31mERROR[0m   | [x] Inline comments must end in full-stops, exclamation marks, colons, or question marks
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[1mPHPCBF CAN FIX THE 216 MARKED SNIFF VIOLATIONS AUTOMATICALLY[0m
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+

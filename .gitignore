@@ -1,5 +1,8 @@
 /vendor
 /php_packages/vendor/
 /php_dependencies/di-container/vendor/
+Design_Patterns
 *.zip
 *.tar
+/learningComposer/vendor/
+/mylibrary/vendor/
